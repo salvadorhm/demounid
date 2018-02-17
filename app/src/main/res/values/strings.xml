@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Almacen Demo</string>
+    <string name="lista_productos">Lista de productos</string>
+    <string name="buscar_productos">Buscar productos</string>
+    <string name="title_activity_lista_productos">Lista de Producos</string>
+    <string name="title_activity_buscar_productos">Lista de Producos</string>
+    <string name="buscar">Buscar Productos</string>
+</resources>

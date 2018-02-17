@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.blogspot.salvadorhm.almacendemo00.MainActivity">
+    <item
+        android:id="@+id/action_lista_productos"
+        android:orderInCategory="100"
+        android:title="@string/lista_productos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_buscar_productos"
+        android:orderInCategory="100"
+        android:title="@string/buscar_productos"
+        app:showAsAction="never" />
+
+</menu>
